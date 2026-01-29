@@ -239,25 +239,7 @@ task-forge/
 
 ---
 
-## 📝 API Documentation
 
-See [API Documentation](docs/api-documentation.md) for detailed API endpoints.
-
----
-
-## 🔒 Security
-
-See [Security Documentation](docs/security.md) for security best practices.
-
----
-
-## 📄 License
-
-This project is proprietary software - see the [LICENSE](LICENSE) file for details.
-
-Created by Dhruv Tripathi. All rights reserved. No contributions accepted.
-
----
 
 ## 👤 Creator
 
