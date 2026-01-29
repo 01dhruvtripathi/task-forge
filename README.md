@@ -8,16 +8,9 @@
   <strong>Advanced task and workflow management platform with automation, analytics, and collaboration features</strong>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-18+-green.svg" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-14+-blue.svg" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Redis-6+-red.svg" alt="Redis"/>
-  <img src="https://img.shields.io/badge/license-Proprietary-blue.svg" alt="License"/>
-</p>
-
 ---
 
-## 📸 Screenshots
+
 
 <p align="center">
   <img src="./assets/dashboard.png" alt="Dashboard View" width="800"/>
