@@ -207,7 +207,7 @@ task-forge/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/01dhruvtripathi/task-forge.git
    cd task-forge
    ```
 
